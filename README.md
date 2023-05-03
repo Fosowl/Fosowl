@@ -4,6 +4,7 @@
 
 ### Check out some of my projects
 
+- [AudioClassificationPyTorch](https://github.com/Fosowl/AudioClassificationPyTorch) : A binary audio classifier made with PyTorch.
 - [S.T.A.R.S.E.T-Game-Engine](https://github.com/Fosowl/S.T.A.R.S.E.T-Game-Engine) : A game engine made in C from scratch.
 - [Area](https://github.com/Fosowl/AREA) : A year-end project for my third year at Epitech, made in ReactJS, NodeJS and React native.
 - [GameJamGorilla](https://github.com/Fosowl/GameJamGorilla) : My participation to a Game Jam using Unity.
