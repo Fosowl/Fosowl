@@ -16,4 +16,4 @@
 
 ### Contact
 
-Feel free to contact me at this email adress : mlg.fcu@gmail.com
+Feel free to contact me at this email adress : martin.legrand@epitech.eu
