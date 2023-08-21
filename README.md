@@ -1,6 +1,6 @@
 
 
-👋 I am Martin from France, currently studying in Taiwan at 逢甲大學 (Feng Chia University) and based in Taichung. I have strong interests for Artificial Inteligence, Robotics and Embedded software.
+👋 I am Martin from France, currently studying at Epitech, I also studied at 逢甲大學 (Feng Chia University) for a year. I have strong interests for Artificial Inteligence, Robotics and Embedded software.
 
 ### Check out some of my projects
 
