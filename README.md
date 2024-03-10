@@ -6,11 +6,11 @@
 
 - [AudioClassificationPyTorch](https://github.com/Fosowl/AudioClassificationPyTorch) : A binary audio classifier made with PyTorch.
 - [ReinforcementLearningGym](https://github.com/Fosowl/ReinforcementLearningGym) : A solution to openGym problems using Reinforcement Learning.
+- [monocularSlam](https://github.com/Fosowl/monocularSlam) : Implementation of Simultaneous localization and mapping (SLAM) using a monocular camera feed, this allow 3d reconstructing of the world based a car dashcam video.
+-  [Circuit Simulator](https://github.com/Fosowl/CircuitSimulator) : An electronic circuit simulator build in C++.
 - [S.T.A.R.S.E.T-Game-Engine](https://github.com/Fosowl/S.T.A.R.S.E.T-Game-Engine) : A game engine made in C from scratch.
-- [Circuit Simulator](https://github.com/Fosowl/CircuitSimulator) : An electronic circuit simulator build in C++.
-- [OrbitalScriptKos](https://github.com/Fosowl/OrbitalScriptKos) : A script for controlling rockets in KSP.
+- [Reddittech](https://github.com/Fosowl/Reddittech) : Implementation of Reddit mobile frontend in react native.
 - [FlightRadar24-like-simulation](https://github.com/Fosowl/FlightRadar24-like-simulation) : A graphical simulation of airplane flying on a map, made in C.
-- [Chisel-writeup](https://github.com/Fosowl/Chisel-writeup) : A cyber-security write-up for a CTF organized by my school.
 
 ### Contact
 
