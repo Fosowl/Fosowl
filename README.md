@@ -1,6 +1,6 @@
 
 
-👋 I am Martin from France, currently studying at Epitech, I also studied at Feng Chia University (逢甲大學) for a year. I have strong interests for Artificial Intelligence and Embedded software.
+👋 I am Martin from France, Epitech 2024 graduate, I also studied at Feng Chia University (逢甲大學) for a year. I have strong interests for Artificial Intelligence and Embedded software.
 
 ### Check out some of my projects
 
