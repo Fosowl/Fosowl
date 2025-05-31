@@ -1,20 +1,20 @@
 
 
-👋 I am Martin a guy from south of France, Epitech 2024 graduate, I also studied at Feng Chia University 逢甲大學.
+👋 I am Martin from south of France, Epitech 2024 graduate, I also studied at Feng Chia University 逢甲大學.
 
-## I usually build AI stuff:
+### I usually build AI stuff:
 
-### [💻 AgenticSeek](https://github.com/Fosowl/agenticSeek)  
+[💻 AgenticSeek](https://github.com/Fosowl/agenticSeek)
 A fully local alternative to Manus AI and other cloud-tied agents. **#1 GitHub Trending in May 2025**
 
-### [🎧 SoundGan](https://github.com/Fosowl/SoundGan)  
+[🎧 SoundGan](https://github.com/Fosowl/SoundGan)
 A pipeline for training GANs (Generative Adversarial Networks) to generate realistic audio (just kidding its kind of broken).
 
-### [🎮 ReinforcementLearningGym](https://github.com/Fosowl/ReinforcementLearningGym)
+[🎮 ReinforcementLearningGym](https://github.com/Fosowl/ReinforcementLearningGym)
 Solutions to classic OpenAI Gym environments using reinforcement learning.
 Watch agents learn to walk one episode at a time. Then get stuck with exploding gradients (I am a RL noob).
 
-### [🚘 monocularSlam](https://github.com/Fosowl/monocularSlam)
+[🚘 monocularSlam](https://github.com/Fosowl/monocularSlam)
 Simultaneous Localization and Mapping (SLAM) with monocular camera input.
 Real-time 3D world reconstruction from car dashcam footage. Inspired by *Geohot* Twitchslam.
 
