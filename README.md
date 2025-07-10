@@ -2,7 +2,7 @@
 
 👋 I am Martin from south of France, Epitech 2024 graduate, I also studied at Feng Chia University 逢甲大學.
 
-**I usually build AI stuff:**
+**Projects:**
 
 [💻 AgenticSeek](https://github.com/Fosowl/agenticSeek)
 A fully local alternative to Manus AI and other cloud-tied agents.
@@ -18,18 +18,8 @@ Watch agents learn to walk one episode at a time. Then get stuck with exploding 
 Simultaneous Localization and Mapping (SLAM) with monocular camera input.
 Real-time 3D world reconstruction from car dashcam footage. Inspired by *Geohot* Twitchslam.
 
-I hope my effort can make a small difference in making AI more community driven.
+I hope my efforts help make AI more accessible to everyone.
 
 **Contact:**
 
 Reach out at: martin.legrand@epitech.eu
-
-Open to flying halfway across the planet for conferences (especially if I don't have to pay for the plane).
-
-**Support:**
-
-It still blows my mind that AgenticSeek took off like it did. With that growth comes a lot of new responsibilities, if you’ve found value in AgenticSeek consider buying me a coffee.
-
-[Buy me a coffee](https://buymeacoffee.com/fosowl)
-
-*(or a GPU, I need more compute)*
