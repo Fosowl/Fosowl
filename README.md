@@ -2,7 +2,7 @@
 
 👋 I am Martin from south of France, Epitech 2024 graduate, I also studied at Feng Chia University 逢甲大學.
 
-**Projects:**
+**Checkout some of my projects:**
 
 [💻 AgenticSeek](https://github.com/Fosowl/agenticSeek)
 A fully local alternative to Manus AI and other cloud-tied agents.
