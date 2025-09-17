@@ -22,4 +22,4 @@ I hope my efforts help make AI more accessible to everyone.
 
 **Contact:**
 
-Reach out at: martin.legrand@epitech.eu
+Reach out at: martin.legrand@epitech.eu or Martin.LEGRAND@univ-cotedazur.fr
