@@ -2,7 +2,11 @@
 
 👋 I am Martin from south of France, Epitech 2024 graduate, I also studied at Feng Chia University 逢甲大學.
 
-**Checkout some of my projects:**
+**Current work:**
+[🌼 Mimosa-AI](https://github.com/HolobiomicsLab/Mimosa-AI)
+An AI-scientist that learn to evolve multi-agents workflow to perform scientific tasks.
+
+**Checkout my past projects:**
 
 [💻 AgenticSeek](https://github.com/Fosowl/agenticSeek)
 A fully local alternative to Manus AI and other cloud-tied agents.
