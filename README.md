@@ -1,6 +1,8 @@
 
 
-👋 I am Martin from France, Epitech graduate, also studied at FCU (逢甲大學). I have interest in AI for Science ; Making Agents go local ; RSI
+👋 I am Martin from France, Epitech graduate, also studied at FCU (逢甲大學).
+
+I have interest in AI for Science ; Making Agents go local ; RSI
 
 **Current work:**
 
